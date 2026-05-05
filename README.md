@@ -1,2 +1,9 @@
-# automobile-systems-and-ev-analysis
-Comprehensive study of Internal Combustion Engine (ICE) vehicles and Electric Vehicles (EVs) with diagrams, working principles, and real-world comparison.
+# Automobile & Electric Vehicles Project
+
+This project covers:
+- ICE Vehicles
+- Electric Vehicles
+- Comparison
+- Diagrams
+
+Created by: Your Name
